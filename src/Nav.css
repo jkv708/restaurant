@@ -1,0 +1,30 @@
+﻿*
+{
+	margin: 0%;
+	padding: 0%;
+	
+}
+
+ul
+{
+	height: 100px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+ul li
+{
+	list-style: none;
+	text-transform: uppercase;
+	font-size: 20px;
+	color: black;
+	margin-left:0px;
+
+}
+
+a
+{   text-decoration: none;
+	color: black;
+	font-family: Georgia, serif;
+
+}
